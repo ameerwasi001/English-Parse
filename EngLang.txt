@@ -1,0 +1,13 @@
+sentence : subject verb obj
+
+subject : ART noun
+
+adjective : ADJ*
+
+noun : adjective NOUN
+
+verb : VERB
+
+obj : ART noun
+
+
